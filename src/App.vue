@@ -118,7 +118,7 @@
       </div>
 
       <div class="break">
-        <!--10. Routers file: router.vue/routerpage.vue/AboutView.vue/HomeView.view -->
+        <!--11. Routers file: router.vue/routerpage.vue/AboutView.vue/HomeView.view -->
         <span class="heading">Routers</span><br>
         <router/>
       </div>
