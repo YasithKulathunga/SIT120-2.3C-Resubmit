@@ -191,7 +191,7 @@ import router from './components/router.vue'
       },
       add(num1) {
         return num1 + 1
-      },
+      },/* 07. Event Handling*/
       hello(event) {
         alert(`Hello ${name.value}!`)
         if(event){
